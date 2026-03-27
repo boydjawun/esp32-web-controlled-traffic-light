@@ -27,6 +27,7 @@
 - Arduino IDE
 - ESP32 Arduino Core (via Board Manager)
 - Built-in libraries: `WiFi.h` and `WebServer.h`
+- [Traffic School Script](https://github.com/boydjawun/esp32-web-controlled-traffic-light/blob/main/traffic_school.ino)
 
 # 🐾Project Walkthrough
 
@@ -52,7 +53,7 @@
 
 4. 🏗️**Create the project**  
    - Open Arduino IDE and create a new sketch.  
-   - Paste the full code from `traffic_school.ino`.  
+   - Paste the full code from [traffic_school.ino](https://github.com/boydjawun/esp32-web-controlled-traffic-light/blob/main/traffic_school.ino).  
    - (Optional) Change `ap_ssid` and `ap_password` at the top if you want a different network name/password.
 
 5. 🤔**Upload the code**  
