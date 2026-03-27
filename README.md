@@ -5,7 +5,8 @@
 </p>
 
 # 👀Description
->This project turns an ESP32 into a fully wireless Traffic Light simulator for "Traffic School" demos, classrooms, or workshops. It creates its own WiFi Access Point (no router needed) so anyone can connect with their phone or laptop and control the red, yellow, and green lights through a clean, responsive web interface. Real-time status is shown on the page, making it perfect for learning IoT, web servers, and basic electronics.
+>This project turns an ESP32 into a fully wireless Traffic Light simulator for "Traffic School" demos, classrooms, or workshops. It creates its own WiFi Access Point (no router needed) so anyone can connect with their phone or laptop and control the red, yellow, and green lights through a clean, responsive web interface. Real-time status is shown on the page, making it perfect for learning IoT, web servers, and basic electronics. Watch the live demonstration here 👉 [ESP32 Web-Controlled Traffic Light](https://youtu.be/Vys1os7I4S0)
+
 
 ## 📖Overview
 - Self-hosted WiFi Access Point (SSID: `YESP32`)
@@ -81,4 +82,9 @@ The web page is fully responsive and works great on phones.
 You can easily add more features (timers, auto-sequences, etc.) by extending the code.
 
 ## Project Demonstration
->The link below will take you to [Simple Electronics Tutorials]()
+>The link below will take you to [Simple Electronics Tutorials](https://www.youtube.com/@simpleelectronicstutorials) YouTube channel.
+
+View the project in action here 👉 [ESP32 Web-Controlled Traffic Light](https://youtu.be/Vys1os7I4S0)
+
+---
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐-----> Star the repo if it helps you! <-----⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
